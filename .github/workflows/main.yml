@@ -17,7 +17,7 @@ jobs:
       - name: Checkout code
         uses: actions/checkout@v2
         with:
-          repository: 'dipchand20/flask-hello-world'
+          repository: 'Dipchand20/python_keel'
           ref: 'main'
 
       - name: Set up QEMU
