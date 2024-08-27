@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
 
     env:
-      DOCKER_IMAGE: dipchand20/keelproject
+      DOCKER_IMAGE: dipchand20/flask-hello-world
 
     steps:
       - name: Checkout code
